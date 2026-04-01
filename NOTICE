@@ -1,0 +1,9 @@
+This repository is an independently maintained fork of the original
+react-native-sunmi-broadcast-scanner project.
+
+Upstream project:
+- Repository: https://github.com/linvix-sistemas/react-native-sunmi-broadcast-scanner
+- Original author: Cristiano Cruz
+
+This fork preserves the original MIT license and includes additional
+modifications and maintenance by devdebdep.
