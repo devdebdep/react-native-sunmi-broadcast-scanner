@@ -1,7 +1,7 @@
 {
-  "name": "@linvix-sistemas/react-native-sunmi-broadcast-scanner",
-  "version": "1.1.1",
-  "description": "Package to listen to Scanners on Sunmi Devices configured with Broadcast",
+  "name": "@devdebdep/react-native-sunmi-broadcast-scanner",
+  "version": "1.2.0",
+  "description": "React Native package for Sunmi broadcast scanning with native scan-gate protections and optional simulation tools",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/src/index.d.ts",
@@ -25,7 +25,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace @linvix-sistemas/react-native-sunmi-broadcast-scanner-example",
+    "example": "yarn workspace @devdebdep/react-native-sunmi-broadcast-scanner-example",
     "test": "jest",
     "typecheck": "tsc --noEmit",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
@@ -42,14 +42,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linvix-sistemas/react-native-sunmi-broadcast-scanner.git"
+    "url": "git+https://github.com/devdebdep/react-native-sunmi-broadcast-scanner.git"
   },
-  "author": "Cristiano Cruz <cristiano@linvix.com.br> (https://github.com/cristiano-linvix)",
+  "author": "devdebdep",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/linvix-sistemas/react-native-sunmi-broadcast-scanner/issues"
+    "url": "https://github.com/devdebdep/react-native-sunmi-broadcast-scanner/issues"
   },
-  "homepage": "https://github.com/linvix-sistemas/react-native-sunmi-broadcast-scanner#readme",
+  "homepage": "https://github.com/devdebdep/react-native-sunmi-broadcast-scanner#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

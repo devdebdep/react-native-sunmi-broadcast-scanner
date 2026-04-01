@@ -2,7 +2,7 @@ import * as React from 'react';
 
 import { StyleSheet, View, Text } from 'react-native';
 
-import ReactNativeSunmiBroadcastScanner from '@linvix-sistemas/react-native-sunmi-broadcast-scanner';
+import ReactNativeSunmiBroadcastScanner from '@devdebdep/react-native-sunmi-broadcast-scanner';
 
 export default function App() {
   const [result, setResult] = React.useState<string>('');

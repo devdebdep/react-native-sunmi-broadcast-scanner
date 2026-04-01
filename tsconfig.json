@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "@linvix-sistemas/react-native-sunmi-broadcast-scanner": ["./src/index"]
+      "@devdebdep/react-native-sunmi-broadcast-scanner": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
